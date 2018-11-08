@@ -17,14 +17,12 @@
 
 ### Goodies 순서도
 
-[Goodies.md]()
-(추가 예정)
+[Goodies.md](./Goodies.md)
 
 
 ### Camera 순서도
 
-[Camera.md]()
-(추가 예정)
+[Camera.md](./Camera.md)
 
 
 ### Gifts 순서도
