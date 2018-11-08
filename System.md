@@ -1,4 +1,4 @@
-# 네코아츠메 역기획서 - System
+﻿# 네코아츠메 역기획서 - System
 
 ### 튜토리얼 순서도
 
@@ -12,14 +12,13 @@
 
 ### Shop 순서도
 
-[Shop.md]()
-(추가 예정)
+[Shop.md](https://github.com/JaeWookLim/ReverseProposal_System/blob/master/Shop.md)
 
 
 ### Goodies 순서도
 
 [Goodies.md]()
-(추가 예정
+(추가 예정)
 
 
 ### Camera 순서도
@@ -48,5 +47,5 @@
 
 ### Others 순서도
 
-[Others.md]()
+[Others.md](https://github.com/JaeWookLim/ReverseProposal_System/blob/master/Others.md)
 (추가 예정)
