@@ -40,7 +40,7 @@
 
 ### Setting 순서도
 
-[Setting.md]https://github.com/JaeWookLim/ReverseProposal_System/blob/master/Setting.md()
+[Setting.md](https://github.com/JaeWookLim/ReverseProposal_System/blob/master/Setting.md)
 
 
 ### NEWS 순서도
