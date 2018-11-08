@@ -5,6 +5,11 @@
 [Tutorial.md](https://github.com/JaeWookLim/ReverseProposal_System/blob/master/Tutorial.md)
 
 
+### Yard 순서도
+
+[Tutorial.md](https://github.com/JaeWookLim/ReverseProposal_System/blob/master/Yard.md)
+
+
 ### Cats 순서도
 
 [Cats.md](https://github.com/JaeWookLim/ReverseProposal_System/blob/master/Cats.md)
@@ -35,14 +40,12 @@
 
 ### Setting 순서도
 
-[Setting.md]()
-(추가 예정)
+[Setting.md]https://github.com/JaeWookLim/ReverseProposal_System/blob/master/Setting.md()
 
 
 ### NEWS 순서도
 
-[NEWS.md]()
-(추가 예정)
+[NEWS.md](https://github.com/JaeWookLim/ReverseProposal_System/blob/master/News.md)
 
 
 ### Others 순서도
