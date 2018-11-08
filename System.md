@@ -48,4 +48,3 @@
 ### Others 순서도
 
 [Others.md](https://github.com/JaeWookLim/ReverseProposal_System/blob/master/Others.md)
-(추가 예정)
