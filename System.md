@@ -33,7 +33,7 @@
 ### Gifts 순서도
 
 [Gifts.md](https://github.com/JaeWookLim/ReverseProposal_System/blob/master/Gifts.md)
-(추가 예정)
+
 
 
 ### Setting 순서도
